@@ -1,1 +1,1 @@
-# Tic Tac Toe Game Smart Contract using Clarity
+## Tic Tac Toe Game Smart Contract using Clarity
